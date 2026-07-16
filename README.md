@@ -144,7 +144,7 @@ python --version
 4. Move into the project folder:
 
 ```bash
-cd authorized_port_scanner
+cd port-scanner-python
 ```
 
 No package installation is required.
